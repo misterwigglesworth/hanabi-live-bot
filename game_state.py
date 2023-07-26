@@ -15,3 +15,4 @@ class GameState:
     discard_pile = []
     turn = -1
     current_player_index = -1
+    # Hahaha
